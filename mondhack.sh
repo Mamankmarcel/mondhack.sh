@@ -10,7 +10,7 @@ echo "|_____/  | /     \   |        |   \___/    |   \|"
 echo "script diamond MLBB"
 read -p "siapakah username MLBB anda: " username
 read -p "apa id MLBB anda: " id
-echo "mencari username $username dan id $id..  "
+echo "mencari username $agus 1991 dan id $131425663..  "
 sleep 1
 echo
 echo
@@ -19,7 +19,7 @@ echo
 echo
 sleep 0.5
 read -p "berapakah diamond yg ingin anda isi: " diamond
-echo "mengisi diamond $diamond ke id $id ..  "
+echo "mengisi diamond $10000 ke id $id ..  "
 sleep 5
 echo
 echo "tunggu beberapa menit.. "
